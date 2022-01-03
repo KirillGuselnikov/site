@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+		<head>
+			<meta charset="UTF-8">
+			<title>Поддержка</title>
+			<link href="mid.css" rel="stylesheet" type="text/css">
+			
+		</head>
+		<body>
+				<p id="nevedinka">aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				aaaaaaaaaa<br>
+				
+				</p>
+				<nav>
+					<ul>
+						<li><a href="index.html">Вкладка со сборками</a></li>
+						<li><a href="social_network.html">Влкадка о доп. информиции</a></li>
+						<li><a href="donate.html">Поддержать наш проект</a></li>
+					</ul>
+				</nav>
+			
+			<p id="1"><b>Помощь в развитии сайта</b><br>
+			Мне не нужны деньги и други материальные блага.<br>
+			Если вам не сложно можете пописаться на наш ютуб канал который  оставлен<br>
+			в вкладке доп. информации.</p>
+			<img src="ETk2aLYXgAATXAX.jpeg" alt="Brutal DOOM" style="float:right" width="500px height="300px">
+			</body>
+</html>
+
